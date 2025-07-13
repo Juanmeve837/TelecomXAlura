@@ -71,8 +71,8 @@ El conjunto de datos fue extraído desde un archivo JSON disponible públicament
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/telecom-churn-analysis.git
-   cd telecom-churn-analysis
+   git clone https://github.com/Juanmeve837/TelecomXAlura.git
+   cd TelecomXAlura
    ```
 
 2. Ejecutar en Google Colab (recomendado):
@@ -108,4 +108,5 @@ telecom-churn-analysis/
 ## 💡 Autor
 
 Este análisis fue desarrollado como ejercicio exploratorio y académico para la comprensión del fenómeno de *Churn* en servicios de telecomunicaciones.  
-¿Tienes sugerencias o ideas para modelos predictivos? ¡Contribuciones son bienvenidas!
+Email: jmesav@gmail.com
+readme porwered by ChatGPT
