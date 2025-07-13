@@ -87,7 +87,7 @@ El conjunto de datos fue extraído desde un archivo JSON disponible públicament
    python churn_analysis.py
    ```
 
-## 📂 Estructura del proyecto (sugerida)
+## 📂 Estructura del proyecto
 
 ```
 telecom-churn-analysis/
