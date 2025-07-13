@@ -96,13 +96,8 @@ telecom-churn-analysis/
 │   └── TelecomX_Data.json
 │
 ├── 📁 notebooks/
-│   └── churn_analysis.ipynb
-│
-├── 📁 images/
-│   └── heatmap_corr.png
-│
+│   └── TelecomXAlura.ipynb
 ├── README.md
-└── requirements.txt
 ```
 
 ## 💡 Autor
